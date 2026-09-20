@@ -1,0 +1,95 @@
+{
+  "v5": [
+    {
+      "nombor": "60129429762",
+      "panel": "kizx"
+    },
+    {
+      "nombor": "601112687680",
+      "panel": "Rixxzz Store"
+    },
+    {
+      "nombor": "60178352242",
+      "panel": "kaizer"
+    },
+    {
+      "nombor": "6285133391342",
+      "panel": "Fiquee"
+    },
+    {
+      "nombor": "60178080153",
+      "panel": "Buyer zak"
+    },
+    {
+      "nombor": "60105201929",
+      "panel": "@RixzOfficial1"
+    },
+    {
+      "nombor": "601123013380",
+      "panel": "@RixzOfficial1"
+    }
+  ],
+  "v6": [
+    {
+      "nombor": "60112838293",
+      "panel": "kockas"
+    },
+    {
+      "nombor": "601112687680",
+      "panel": "RIXXZZ STORE"
+    },
+    {
+      "nombor": "6283832431077",
+      "panel": "Sya"
+    },
+    {
+      "nombor": "601161891648",
+      "panel": "Qimek"
+    },
+    {
+      "nombor": "601160877309",
+      "panel": "Hamzuki"
+    },
+    {
+      "nombor": "60169231318",
+      "panel": "@RixzOfficial1"
+    },
+    {
+      "nombor": "601115150912",
+      "panel": "Asman Store"
+    }
+  ],
+  "blacklistNombor": [],
+  "owners": [
+    "1043995204",
+    "8704052524"
+  ],
+  "ownerVvip": [
+    "7759590357"
+  ],
+  "resellers": [
+    {
+      "userId": "8477166862",
+      "role": "RESELLER V6"
+    },
+    {
+      "userId": "8704052524",
+      "role": "RESELLER G1"
+    },
+    {
+      "userId": "8902054883",
+      "role": "RESELLER G1"
+    },
+    {
+      "userId": "7351350741",
+      "role": "RESELLER G1"
+    }
+  ],
+  "moderators": [],
+  "developers": [
+    "6946122020",
+    "8477166862",
+    "7759590357"
+  ],
+  "updatedAt": "2026-09-20T10:27:00.975720Z"
+}
