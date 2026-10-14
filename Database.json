@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T09:48:30.166Z",
+  "updatedAt": "2026-10-14T09:53:53.153Z",
   "v5": [
     {
       "nombor": "60129429762",
@@ -70,6 +70,10 @@
     {
       "nombor": "639451484632",
       "panel": "qaszz"
+    },
+    {
+      "nombor": "639553403374",
+      "panel": "qaszztido"
     }
   ],
   "blacklistNombor": [],
