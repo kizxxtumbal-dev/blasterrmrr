@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T12:42:14.494Z",
+  "updatedAt": "2026-10-15T19:18:31.321Z",
   "v5": [
     {
       "nombor": "60129429762",
@@ -78,6 +78,10 @@
     {
       "nombor": "60142856750",
       "panel": "sapiq"
+    },
+    {
+      "nombor": "639758359006",
+      "panel": "Adill"
     }
   ],
   "blacklistNombor": [],
