@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T02:21:55.877Z",
+  "updatedAt": "2026-11-07T11:27:44.449Z",
   "v5": [
     {
       "nombor": "60129429762",
@@ -90,6 +90,10 @@
     {
       "nombor": "601168278702",
       "panel": "xeno reseller"
+    },
+    {
+      "nombor": "601159433898",
+      "panel": "San"
     }
   ],
   "blacklistNombor": [],
