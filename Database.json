@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T08:17:10.381Z",
+  "updatedAt": "2026-11-08T16:23:10.289Z",
   "v5": [
     {
       "nombor": "60129429762",
@@ -122,6 +122,10 @@
     {
       "nombor": "60199694098",
       "panel": "Rizki Store"
+    },
+    {
+      "nombor": "60133711050",
+      "panel": "arman"
     }
   ],
   "blacklistNombor": [],
