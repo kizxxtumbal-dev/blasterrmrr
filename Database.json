@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T01:34:07.297Z",
+  "updatedAt": "2026-11-08T08:17:10.381Z",
   "v5": [
     {
       "nombor": "60129429762",
@@ -118,6 +118,10 @@
     {
       "nombor": "60196566027",
       "panel": "vxli"
+    },
+    {
+      "nombor": "60199694098",
+      "panel": "Rizki Store"
     }
   ],
   "blacklistNombor": [],
@@ -150,6 +154,10 @@
     {
       "userId": "6351901950",
       "role": "RESELLER V5"
+    },
+    {
+      "userId": "8709443511",
+      "role": "RESELLER G1"
     }
   ],
   "moderators": [],
