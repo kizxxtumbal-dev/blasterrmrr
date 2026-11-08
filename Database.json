@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T00:59:03.242Z",
+  "updatedAt": "2026-11-08T01:03:22.611Z",
   "v5": [
     {
       "nombor": "60129429762",
@@ -110,6 +110,10 @@
     {
       "nombor": "0196566207",
       "panel": "vxli"
+    },
+    {
+      "nombor": "60178461828",
+      "panel": "Mapis Store"
     }
   ],
   "blacklistNombor": [],
