@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T16:23:10.289Z",
+  "updatedAt": "2026-11-09T01:46:34.299Z",
   "v5": [
     {
       "nombor": "60129429762",
@@ -126,6 +126,10 @@
     {
       "nombor": "60133711050",
       "panel": "arman"
+    },
+    {
+      "nombor": "601167080613",
+      "panel": "Apik Store"
     }
   ],
   "blacklistNombor": [],
