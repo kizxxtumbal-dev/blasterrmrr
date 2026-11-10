@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T15:43:30.953Z",
+  "updatedAt": "2026-11-10T17:39:50.548Z",
   "v5": [
     {
       "nombor": "60129429762",
@@ -142,6 +142,10 @@
     {
       "nombor": "60174284234",
       "panel": "oreo reseller"
+    },
+    {
+      "nombor": "601129234432",
+      "panel": "pablo store"
     }
   ],
   "blacklistNombor": [],
