@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T07:10:09.577Z",
+  "updatedAt": "2026-11-11T08:09:31.265Z",
   "v5": [
     {
       "nombor": "60129429762",
@@ -154,6 +154,10 @@
     {
       "nombor": "601111376771",
       "panel": "kalzstore"
+    },
+    {
+      "nombor": "60177662532",
+      "panel": "Mid Harraz"
     }
   ],
   "blacklistNombor": [],
