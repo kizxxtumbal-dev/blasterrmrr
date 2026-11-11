@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T17:39:50.548Z",
+  "updatedAt": "2026-11-11T04:23:29.946Z",
   "v5": [
     {
       "nombor": "60129429762",
@@ -146,6 +146,10 @@
     {
       "nombor": "601129234432",
       "panel": "pablo store"
+    },
+    {
+      "nombor": "601155133604",
+      "panel": "Shyroo store"
     }
   ],
   "blacklistNombor": [],
