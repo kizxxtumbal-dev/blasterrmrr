@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T10:28:55.218Z",
+  "updatedAt": "2026-11-14T11:04:20.557Z",
   "v5": [
     {
       "nombor": "60129429762",
@@ -198,6 +198,10 @@
     {
       "nombor": "60168642234",
       "panel": "Nova"
+    },
+    {
+      "nombor": "60145988860",
+      "panel": "iskandar"
     }
   ],
   "blacklistNombor": [],
