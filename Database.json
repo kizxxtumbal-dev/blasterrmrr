@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T09:17:53.949Z",
+  "updatedAt": "2026-11-14T09:39:34.138Z",
   "v5": [
     {
       "nombor": "60129429762",
@@ -190,6 +190,10 @@
     {
       "nombor": "60142385450",
       "panel": "jester gameshop"
+    },
+    {
+      "nombor": "601158662730",
+      "panel": "Darwish"
     }
   ],
   "blacklistNombor": [],
