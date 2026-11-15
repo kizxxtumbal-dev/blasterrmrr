@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T11:12:24.435Z",
+  "updatedAt": "2026-11-15T11:13:59.557Z",
   "v5": [
     {
       "nombor": "60129429762",
@@ -218,6 +218,10 @@
     {
       "nombor": "60147031271",
       "panel": "mid harraz backup"
+    },
+    {
+      "nombor": "60178003162",
+      "panel": "aimanv1"
     }
   ],
   "blacklistNombor": [],
