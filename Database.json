@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T04:20:34.771Z",
+  "updatedAt": "2026-11-15T04:29:23.010Z",
   "v5": [
     {
       "nombor": "60129429762",
@@ -210,6 +210,10 @@
     {
       "nombor": "601155550901",
       "panel": "pan reseller"
+    },
+    {
+      "nombor": "60124934531",
+      "panel": "zamri"
     }
   ],
   "blacklistNombor": [],
