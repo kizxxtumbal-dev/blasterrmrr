@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T01:01:56.374Z",
+  "updatedAt": "2026-11-16T01:40:42.672Z",
   "v5": [
     {
       "nombor": "60129429762",
@@ -238,6 +238,10 @@
     {
       "nombor": "60178003162",
       "panel": "aimanv1"
+    },
+    {
+      "nombor": "6011586662730",
+      "panel": "awisy"
     }
   ],
   "blacklistNombor": [],
