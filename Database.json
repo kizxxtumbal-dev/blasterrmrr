@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T16:06:56.592Z",
+  "updatedAt": "2026-11-17T16:11:05.485Z",
   "v5": [
     {
       "nombor": "60129429762",
@@ -339,10 +339,6 @@
     {
       "userId": "7467551569",
       "role": "RESELLER V5"
-    },
-    {
-      "userId": "7859827540",
-      "role": "RESELLER G1"
     }
   ],
   "moderators": [
