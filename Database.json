@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T16:12:14.330Z",
+  "updatedAt": "2026-11-17T16:22:14.712Z",
   "v5": [
     {
       "nombor": "60129429762",
@@ -278,6 +278,10 @@
     {
       "nombor": "60166023564",
       "panel": "corn store"
+    },
+    {
+      "nombor": "60163606700",
+      "panel": "zaim"
     }
   ],
   "blacklistNombor": [
