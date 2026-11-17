@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T03:58:57.302Z",
+  "updatedAt": "2026-11-17T08:25:17.657Z",
   "v5": [
     {
       "nombor": "60129429762",
@@ -258,6 +258,10 @@
     {
       "nombor": "60194671246",
       "panel": "MadReseller"
+    },
+    {
+      "nombor": "60176884630",
+      "panel": "Zynn store"
     }
   ],
   "blacklistNombor": [
