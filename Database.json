@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T11:23:34.598Z",
+  "updatedAt": "2026-11-18T11:48:09.113Z",
   "v5": [
     {
       "nombor": "60129429762",
@@ -84,6 +84,10 @@
     {
       "nombor": "60199940211",
       "panel": "minreseller"
+    },
+    {
+      "nombor": "601127459288",
+      "panel": "MadReseller"
     }
   ],
   "v6": [
