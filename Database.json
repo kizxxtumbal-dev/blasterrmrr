@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T04:42:27.007Z",
+  "updatedAt": "2026-11-22T05:27:44.999Z",
   "v5": [
     {
       "nombor": "60129429762",
@@ -88,6 +88,10 @@
     {
       "nombor": "601127459288",
       "panel": "MadReseller"
+    },
+    {
+      "nombor": "60173530938",
+      "panel": "@MadReseller"
     }
   ],
   "v6": [
