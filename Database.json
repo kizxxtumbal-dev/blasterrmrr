@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T03:26:14.138Z",
+  "updatedAt": "2026-11-25T06:29:42.172Z",
   "v5": [
     {
       "nombor": "60129429762",
@@ -100,6 +100,10 @@
     {
       "nombor": "60134410836",
       "panel": "WAN STORE"
+    },
+    {
+      "nombor": "601159558474",
+      "panel": "ShirazStoreX"
     }
   ],
   "v6": [
@@ -342,6 +346,10 @@
     {
       "nombor": "601160956935",
       "panel": "@madreseller"
+    },
+    {
+      "nombor": "601110231552",
+      "panel": "@MadReseller"
     }
   ],
   "blacklistNombor": [
