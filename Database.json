@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T11:54:40.785Z",
+  "updatedAt": "2026-11-25T15:17:15.298Z",
   "v5": [
     {
       "nombor": "60129429762",
@@ -354,6 +354,10 @@
     {
       "nombor": "601110231552",
       "panel": "@MadReseller"
+    },
+    {
+      "nombor": "60176391852",
+      "panel": "prince nom kedua"
     }
   ],
   "blacklistNombor": [
