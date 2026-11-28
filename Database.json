@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T03:37:21.890Z",
+  "updatedAt": "2026-11-28T05:52:08.324Z",
   "v5": [
     {
       "nombor": "60129429762",
@@ -390,6 +390,10 @@
     {
       "nombor": "601151663585",
       "panel": "azimresseller"
+    },
+    {
+      "nombor": "601164605160",
+      "panel": "myzz store"
     }
   ],
   "blacklistNombor": [
